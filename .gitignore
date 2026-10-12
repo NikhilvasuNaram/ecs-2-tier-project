@@ -230,3 +230,4 @@ __marimo__/
 README.md
 *.yaml
 *.yml
+.gitignore
